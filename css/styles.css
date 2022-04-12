@@ -21,7 +21,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     background-color: #fff;
-    color: #222;
+    color: #111517;
 }
 
 img {
@@ -52,4 +52,12 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.site-link {
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 32px;
+    color: #111517;
 }
