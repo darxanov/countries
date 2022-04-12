@@ -45,3 +45,11 @@ img {
 .main-content {
     flex-grow: 1;
 }
+
+
+/* SITE-HEADER */
+.site-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
